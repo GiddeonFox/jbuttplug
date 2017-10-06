@@ -1,4 +1,4 @@
-[submodule "src/main/external/buttplug-schema"]
-	path = src/main/external/buttplug-schema
+[submodule "core/src/main/external/buttplug-schema"]
+	path = core/src/main/external/buttplug-schema
     url = https://github.com/metafetish/buttplug-schema
     ignore = dirty
