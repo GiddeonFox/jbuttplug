@@ -1,3 +1,16 @@
+# IDEA project files
+/.idea
+*.iml
+
+# Mac stuff
+.DS_Store
+
+# Maven stuff
+/target
+
+# Temp stuff
+~*
+
 # Compiled class file
 *.class
 
